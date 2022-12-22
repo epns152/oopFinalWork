@@ -1,0 +1,15 @@
+C:\Users\Roman\Desktop\learning\OOP\FinalWorkConsole\FinalWorkConsole\bin\Debug\net6.0\FinalWorkConsole.exe
+C:\Users\Roman\Desktop\learning\OOP\FinalWorkConsole\FinalWorkConsole\bin\Debug\net6.0\FinalWorkConsole.deps.json
+C:\Users\Roman\Desktop\learning\OOP\FinalWorkConsole\FinalWorkConsole\bin\Debug\net6.0\FinalWorkConsole.runtimeconfig.json
+C:\Users\Roman\Desktop\learning\OOP\FinalWorkConsole\FinalWorkConsole\bin\Debug\net6.0\FinalWorkConsole.dll
+C:\Users\Roman\Desktop\learning\OOP\FinalWorkConsole\FinalWorkConsole\bin\Debug\net6.0\FinalWorkConsole.pdb
+C:\Users\Roman\Desktop\learning\OOP\FinalWorkConsole\FinalWorkConsole\obj\Debug\net6.0\FinalWorkConsole.csproj.AssemblyReference.cache
+C:\Users\Roman\Desktop\learning\OOP\FinalWorkConsole\FinalWorkConsole\obj\Debug\net6.0\FinalWorkConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\Desktop\learning\OOP\FinalWorkConsole\FinalWorkConsole\obj\Debug\net6.0\FinalWorkConsole.AssemblyInfoInputs.cache
+C:\Users\Roman\Desktop\learning\OOP\FinalWorkConsole\FinalWorkConsole\obj\Debug\net6.0\FinalWorkConsole.AssemblyInfo.cs
+C:\Users\Roman\Desktop\learning\OOP\FinalWorkConsole\FinalWorkConsole\obj\Debug\net6.0\FinalWorkConsole.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\learning\OOP\FinalWorkConsole\FinalWorkConsole\obj\Debug\net6.0\FinalWorkConsole.dll
+C:\Users\Roman\Desktop\learning\OOP\FinalWorkConsole\FinalWorkConsole\obj\Debug\net6.0\refint\FinalWorkConsole.dll
+C:\Users\Roman\Desktop\learning\OOP\FinalWorkConsole\FinalWorkConsole\obj\Debug\net6.0\FinalWorkConsole.pdb
+C:\Users\Roman\Desktop\learning\OOP\FinalWorkConsole\FinalWorkConsole\obj\Debug\net6.0\FinalWorkConsole.genruntimeconfig.cache
+C:\Users\Roman\Desktop\learning\OOP\FinalWorkConsole\FinalWorkConsole\obj\Debug\net6.0\ref\FinalWorkConsole.dll
